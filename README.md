@@ -18,14 +18,15 @@ Users should be able to:
 * View different product images for desktop and mobile screens
 
 
-
 ## Screenshot
+
+![alt text](<Screenshot 2026-02-12 053232.png>)
 
 
 
 ## Links
 
-
+live link: https://product-preview-card-component-three-lime.vercel.app/
 
 
 
